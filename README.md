@@ -19,5 +19,5 @@ I'm a Software Engineering Undergraduate Student at Informatics Institute ofTech
 - 🌱 I’m currently learning Software Engineering at Informatics Institute of Technology (IIT)(AFFILIATED WITH UNIVERSITY OF WESTMINSTER,UK).
 - 💬 Ask me about Java, Python, JavaScript
 - 📫 How to reach me: isuru3.atthanayake@gmail.com
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isuru2Atthanayake&layout=compact)](https://github.com/Isuru2Atthanayake/github-readme-stats)
 
