@@ -15,7 +15,7 @@ I'm a Software Engineering Undergraduate Student at Informatics Institute ofTech
 - ⚡ Fun fact: ...
 -->
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isuru2Atthanayake&show_icons=true)-->
-- 🔭 I’m currently searching for an Internship. 
+- 🔭 I’m currently working as a SOFTWARE ENGINEERING INTERN at ThirdSpaceGlobal. 
 - 🌱 I’m currently learning Software Engineering at Informatics Institute of Technology (IIT)(AFFILIATED WITH UNIVERSITY OF WESTMINSTER,UK).
 - 💬 Ask me about Java, Python, JavaScript
 - 📫 How to reach me: isuru3.atthanayake@gmail.com
